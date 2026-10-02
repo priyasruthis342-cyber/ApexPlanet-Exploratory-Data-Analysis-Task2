@@ -1,0 +1,6 @@
+ Column Name,Data Types ,Descripition
+Row Id,Number,Row Id
+order Id ,Text,order Id
+order Date,Date,order Date
+Customer Name`,text,Customer Name
+sales,number,sales
